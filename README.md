@@ -32,3 +32,18 @@ Comments,Aggression Label,Target Religion
 তোরা কাফের, বাংলাদেশে থাকতে পারবি না।,Aggressive,Hindu
 এটা সবার ধর্মের প্রতি সম্মান জানানোর দিন।,Non-Aggressive,
 ধর্ম নিয়ে কথা বলবি তোকে কুত্তার মতো মারব।,Aggressive,Islam
+
+```
+
+## 🎯 Use Cases
+This dataset is useful for:
+
+[-] Hate speech and aggression detection in Bangla
+
+[-] Religious bias classification
+
+[-] Social media moderation tools
+
+[-] Multilingual or cross-lingual NLP training
+
+[-] Transfer learning for low-resource languages
